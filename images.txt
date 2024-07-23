@@ -1,2 +1,2 @@
 nginx
-btpanel/baota
+btpanel/baota:latest
