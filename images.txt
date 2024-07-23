@@ -1,3 +1,4 @@
 nginx
 btpanel/baota:latest
 ubuntu:22.04
+hello-world:linux
