@@ -7,3 +7,4 @@ java:openjdk-8u111-jdk-alpine
 mysql:5.7-oraclelinux7
 rabbitmq:management-alpine
 seataio/seata-server:1.4.0
+elasticsearch:7.9.2
