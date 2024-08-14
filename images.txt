@@ -9,4 +9,5 @@
 #seataio/seata-server:1.4.0
 #elasticsearch:7.9.2
 #zendesk/maxwell:v1.29.2
-minio/minio:latest
+#minio/minio:latest
+redis:7.4.0
