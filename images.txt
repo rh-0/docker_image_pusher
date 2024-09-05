@@ -11,4 +11,5 @@
 #zendesk/maxwell:v1.29.2
 #minio/minio:latest
 #redis:7.4.0
-xhofe/alist:latest
+#xhofe/alist:latest
+xhofe/alist-aria2:latest
