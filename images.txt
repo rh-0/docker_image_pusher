@@ -13,4 +13,5 @@
 #redis:7.4.0
 #xhofe/alist:latest
 #xhofe/alist-aria2:latest
-netdata/netdata:latest
+#netdata/netdata:latest
+yelochick/deeplx-lb:latest
