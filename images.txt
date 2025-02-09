@@ -20,4 +20,5 @@
 #alpine:3.21
 #chipsman/uptime-kuma:latest
 #louislam/uptime-kuma:nightly2
-louislam/uptime-kuma:1
+#louislam/uptime-kuma:1
+louislam/uptime-kuma:1.23.16-alpine
