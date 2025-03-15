@@ -20,5 +20,5 @@
 #alpine:3.21
 #chipsman/uptime-kuma:latest
 #packetstream/psclient:latest
-containrrr/watchtower
-#python:3.11.11
+#containrrr/watchtower
+python:3.11.11
