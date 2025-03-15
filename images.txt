@@ -21,4 +21,5 @@
 #chipsman/uptime-kuma:latest
 #packetstream/psclient:latest
 #containrrr/watchtower
-python:3.11.11
+#python:3.11.11
+python:3.11.11-slim-bullseye
