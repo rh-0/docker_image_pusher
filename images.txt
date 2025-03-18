@@ -20,6 +20,7 @@
 #alpine:3.21
 #chipsman/uptime-kuma:latest
 #packetstream/psclient:latest
-containrrr/watchtower
+#containrrr/watchtower
 #python:3.11.11
 #python:3.11.11-slim-bullseye
+selenium/standalone-chrome
