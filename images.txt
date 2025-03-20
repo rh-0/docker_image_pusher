@@ -23,4 +23,5 @@
 #containrrr/watchtower
 #python:3.11.11
 #python:3.11.11-slim-bullseye
-selenium/standalone-chrome
+#selenium/standalone-chrome
+ghcr.io/owo-network/deeplx:latest
