@@ -24,4 +24,5 @@
 #python:3.11.11
 #python:3.11.11-slim-bullseye
 #selenium/standalone-chrome
-ghcr.io/owo-network/deeplx:latest
+#ghcr.io/owo-network/deeplx:latest
+ubuntu:14.04
