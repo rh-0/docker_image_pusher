@@ -26,4 +26,4 @@
 #selenium/standalone-chrome
 #ghcr.io/owo-network/deeplx:latest
 #ubuntu:14.04
-rizo928/mywebsql-flex:latest
+cloudflare/cloudflared:latest
