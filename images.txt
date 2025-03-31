@@ -26,4 +26,5 @@
 #selenium/standalone-chrome
 #ghcr.io/owo-network/deeplx:latest
 #ubuntu:14.04
-cloudflare/cloudflared:latest
+#cloudflare/cloudflared:latest
+xxnuo/mtranserver:1.1.1
