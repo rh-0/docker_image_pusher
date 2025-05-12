@@ -6,6 +6,7 @@
 #java:openjdk-8u111-jdk-alpine
 #alpine/java:11-jdk
 #mysql:5.7-oraclelinux7
+mysql:8.4.5
 #rabbitmq:management-alpine
 #seataio/seata-server:1.4.0
 #elasticsearch:7.9.2
@@ -27,4 +28,4 @@
 #ghcr.io/owo-network/deeplx:latest
 #ubuntu:14.04
 #cloudflare/cloudflared:latest
-xxnuo/mtranserver:1.1.1
+#xxnuo/mtranserver:1.1.1
