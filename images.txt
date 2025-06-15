@@ -40,4 +40,6 @@
 #gitea/act_runner:nightly
 #gitea/act_runner:nightly-dind-rootless
 #gitea/act_runner:latest
-gitea/act_runner:nightly-dind
+#gitea/act_runner:nightly-dind
+
+dockurr/windows:4.35
