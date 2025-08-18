@@ -42,4 +42,7 @@
 #gitea/act_runner:latest
 #gitea/act_runner:nightly-dind
 
-dockurr/windows:4.35
+#dockurr/windows:4.35
+
+githubyumao/mcsmanager-daemon:latest
+githubyumao/mcsmanager-web:latest
