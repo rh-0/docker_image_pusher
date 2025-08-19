@@ -46,5 +46,3 @@
 
 #githubyumao/mcsmanager-daemon:latest
 #githubyumao/mcsmanager-web:latest
-
-lanol/filecodebox:beta
