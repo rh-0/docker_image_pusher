@@ -1,4 +1,4 @@
-nginx
+#nginx
 #btpanel/baota:latest
 #ubuntu:22.04
 
@@ -46,3 +46,5 @@ nginx
 
 #githubyumao/mcsmanager-daemon:latest
 #githubyumao/mcsmanager-web:latest
+
+lanol/filecodebox:beta
