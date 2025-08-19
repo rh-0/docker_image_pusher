@@ -33,7 +33,7 @@
 #selenium/standalone-chrome
 #ghcr.io/owo-network/deeplx:latest
 #ubuntu:14.04
-cloudflare/cloudflared:latest
+#cloudflare/cloudflared:latest
 #xxnuo/mtranserver:1.1.1
 
 #gitea/gitea:1.24-nightly-rootless
@@ -46,3 +46,5 @@ cloudflare/cloudflared:latest
 
 #githubyumao/mcsmanager-daemon:latest
 #githubyumao/mcsmanager-web:latest
+
+lanol/filecodebox:beta
