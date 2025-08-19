@@ -1,4 +1,4 @@
-#nginx
+nginx
 #btpanel/baota:latest
 #ubuntu:22.04
 
