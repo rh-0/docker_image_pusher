@@ -45,6 +45,6 @@
 #dockurr/windows:4.35
 
 #githubyumao/mcsmanager-daemon:latest
-#githubyumao/mcsmanager-web:latest
+githubyumao/mcsmanager-web:latest
 
-lanol/filecodebox:beta
+#lanol/filecodebox:beta
