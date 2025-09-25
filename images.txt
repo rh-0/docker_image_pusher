@@ -47,5 +47,6 @@
 #githubyumao/mcsmanager-daemon:latest
 #githubyumao/mcsmanager-web:latest
 
-lanol/filecodebox:beta
+#lanol/filecodebox:beta
+
 #golang:1.21-alpine
