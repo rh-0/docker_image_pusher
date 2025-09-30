@@ -51,3 +51,5 @@
 #githubyumao/mcsmanager-web:latest
 
 #lanol/filecodebox:beta
+
+ghcr.io/komari-monitor/komari:latest
