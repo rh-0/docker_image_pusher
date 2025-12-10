@@ -52,4 +52,6 @@
 
 #lanol/filecodebox:beta
 
-ghcr.io/komari-monitor/komari:latest
+#ghcr.io/komari-monitor/komari:latest
+
+xxnuo/mtranserver:latest
