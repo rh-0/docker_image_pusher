@@ -36,7 +36,7 @@
 #selenium/standalone-chrome
 #ghcr.io/owo-network/deeplx:latest
 #ubuntu:14.04
-cloudflare/cloudflared:latest
+#cloudflare/cloudflared:latest
 
 #xxnuo/mtranserver:1.1.1
 
@@ -59,3 +59,5 @@ cloudflare/cloudflared:latest
 
 #FileRise 轻巧而强大——您完全掌控的个人云盘
 #error311/filerise-docker:v2.11.3
+
+marseventh/cloudflare-imgbed:latest
